@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">의견등록도우미</string>
+
+    <!-- 메인 화면 -->
+    <string name="main_title">국회 의견등록 도우미</string>
+    <string name="accessibility_status">접근성 서비스 상태</string>
+    <string name="accessibility_enabled">활성화됨 ✓</string>
+    <string name="accessibility_disabled">비활성화됨</string>
+    <string name="enable_accessibility">접근성 권한 설정하기</string>
+    <string name="open_vforkorea">vforkorea.com/assem 열기</string>
+
+    <!-- 캡차 다이얼로그 -->
+    <string name="captcha_title">🛡️ 보안문자 입력</string>
+    <string name="captcha_input_hint">보안문자 (4~5자리)</string>
+    <string name="choice_cons">반대</string>
+    <string name="choice_pros">찬성</string>
+    <string name="btn_submit">확인</string>
+    <string name="btn_cancel">취소</string>
+    <string name="error_captcha_short">4자리 이상 입력해주세요.</string>
+
+    <!-- 안내 메시지 -->
+    <string name="guide_message">1. 접근성 권한을 먼저 설정해주세요\n2. vforkorea.com/assem에서 법안을 선택하세요\n3. 자동으로 의견이 입력됩니다</string>
+
+    <!-- 접근성 서비스 설명 -->
+    <string name="accessibility_description">국회 의견등록 페이지를 감지하여 자동으로 의견을 입력해줍니다. 제목, 본문을 자동으로 채우고 캡차 입력을 도와줍니다.</string>
+</resources>
